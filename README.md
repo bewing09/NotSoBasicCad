@@ -19,4 +19,3 @@ In this assignment i got a lot better at making assemblys and i used the functio
 ![lego](media/lego.PNG)
 ![lego](media/Lego2.PNG)
 ![Alittlepractice](media/ALittlePractice.PNG)
-
